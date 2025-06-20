@@ -1,0 +1,19 @@
+# Ignore large raw dataset
+training.1600000.processed.noemoticon.csv
+
+# Ignore data folder CSVs
+data/*.csv
+
+# Ignore virtual environments
+env/
+venv/
+
+# Bytecode cache
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS and system files
+.DS_Store
+Thumbs.db
