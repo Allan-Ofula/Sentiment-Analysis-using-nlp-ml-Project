@@ -143,4 +143,3 @@ Allan Ofula
 Email: ofulaallan@gmail.com
 LinkedIn: https://www.linkedin.com/in/allan-ofula-b2804911b/
 Github: https://github.com/Allan-Ofula
-
