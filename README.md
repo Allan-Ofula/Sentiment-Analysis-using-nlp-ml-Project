@@ -1,4 +1,4 @@
-# TweetSentimentPro: Real-Time Twitter Sentiment Analysis using NLP & Machine Learning Project
+# TWEETS SENTIMENT ANALYSIS PROJECT USING NLP & ML
 
 <p align="center">
   <img src="https://img.shields.io/badge/NLP-Tweet%20Classification-blueviolet?style=flat-square"/>
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Data-1.6M%20Tweets-orange?style=flat-square"/>
 </p>
 
-> **TweetSentimentPro** is a scalable, end-to-end NLP pipeline that classifies tweets as **positive** or **negative** using traditional machine learning techniques. Built on the large-scale **Sentiment140** dataset, this project empowers real-time monitoring of customer feedback, social mood, and brand reputation.
+> **Tweet Sentiment Analysis Project** is a scalable, end-to-end NLP pipeline that classifies tweets as **positive** or **negative** using traditional machine learning techniques. Built on the large-scale **Sentiment140** dataset, this project empowers real-time monitoring of customer feedback, social mood, and brand reputation.
 
 ---
 
@@ -89,7 +89,7 @@ Each model was evaluated using:
 
 ---
 
-## ❌ Error Analysis
+##  Error Analysis
 
 - Misclassified tweets mostly included:
   - **Sarcasm** or **ambiguous tone**
@@ -129,17 +129,17 @@ We inspected top misclassified examples to guide improvements (e.g.custom tokeni
 ## Contact & Collaboration
 Made with by:
 
-Pamela Godia
-Email: 
-LinkedIn: 
-Github:
+## Pamela Godia
+* Email: Pam.Godia@gmail.com 
+* LinkedIn: http://linkedin.com/in/pamela-godia-3833b0bb
+* Github: https://github.com/PamGodia
 
-Austine Otieno
-Email: 
-LinkedIn: 
-Github:
+## Austine Otieno
+* Email: dankotieno1@gmail.com
+* LinkedIn: https://www.linkedin.com/in/austine-denis-31792b198/
+* Github:https://github.com/Austine-pixel 
 
-Allan Ofula
-Email: ofulaallan@gmail.com
-LinkedIn: https://www.linkedin.com/in/allan-ofula-b2804911b/
-Github: https://github.com/Allan-Ofula
+## Allan Ofula
+* Email: ofulaallan@gmail.com
+* LinkedIn: https://www.linkedin.com/in/allan-ofula-b2804911b/
+* Github: https://github.com/Allan-Ofula
